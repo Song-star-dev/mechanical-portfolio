@@ -1,10 +1,12 @@
 # 宋乐辰的机械设计作品集
 
-中国计量大学 · 机械设计制造及其自动化本科在读。以下为使用 SolidWorks 独立完成的 6 个建模练习，展示零件建模、装配约束与结构布局能力。
+中国计量大学 · 机械设计制造及其自动化本科在读。以下为使用 SolidWorks 独立完成的建模练习，展示零件建模、装配约束与结构布局能力。
 
 ## 机械臂装配体设计
 
-[机械臂装配体](images/robot-arm.jpg)
+![机械臂装配体](projects/robot-arm/preview.png)
+
+[下载模型（SolidWorks 装配包 · ZIP）](projects/robot-arm/model.zip)
 
 - 完成时间：利用课余时间，3 天内完成。
 - 工作内容：完成底座、连杆、关节及末端夹爪 4 类核心部件的建模与装配。
@@ -12,7 +14,9 @@
 
 ## 抽屉装配体设计
 
-[抽屉装配体](images/drawer.jpg)
+![抽屉装配体](projects/drawer/preview.png)
+
+[下载模型（SolidWorks 装配包 · ZIP）](projects/drawer/model.zip)
 
 - 完成时间：利用课余时间，3 天内完成。
 - 工作内容：完成抽屉主体、导轨、面板及内部结构的建模与装配。
@@ -20,14 +24,18 @@
 
 ## 手机支架设计
 
-[手机支架](images/phone-stand.jpg)
+![手机支架](projects/phone-stand/preview.png)
+
+[下载模型（STEP）](projects/phone-stand/model.step)
 
 - 工作内容：采用一体式支撑结构，设计承托槽与背部镂空。
 - 成果：综合运用拉伸、切除、圆角和倒角 4 类特征，完成支架零件模型。
 
 ## 弹簧装配体设计
 
-[弹簧装配体](images/spring.jpg)
+![弹簧装配体](projects/spring/preview.png)
+
+[下载模型（SolidWorks 装配包 · ZIP）](projects/spring/model.zip)
 
 - 工作内容：完成弹簧、中心杆及两端支撑 3 类零件的建模与装配。
 - 成果：运用旋转、螺旋扫描等特征生成弹簧组件，并完成基础装配检查。
@@ -41,9 +49,23 @@
 
 ## 登山扣外形建模
 
-[登山扣外形模型](images/carabiner.jpg)
+![登山扣外形模型](projects/carabiner/preview.png)
+
+[下载模型（STEP）](projects/carabiner/model.step)
 
 - 工具：SolidWorks。
 - 工作内容与成果：完成环形扣体、截面过渡与套筒外形建模；综合运用扫描、放样、拉伸、旋转及切除 5 类特征，形成登山扣外形模型。
+
+## 小车底盘装配体
+
+![小车底盘](projects/vehicle-chassis/preview.png)
+
+[下载模型（SolidWorks 装配包 · ZIP）](projects/vehicle-chassis/model.zip)
+
+## 麦轮装配体
+
+![麦轮装配体](projects/mecanum-wheel/preview.png)
+
+[下载模型（SolidWorks 装配包 · ZIP）](projects/mecanum-wheel/model.zip)
 
 以上作品均为个人建模练习，图片为软件截图。登山扣项目展示外形建模，不包含开合机构验证、承载测试或安全认证。
